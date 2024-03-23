@@ -78,7 +78,7 @@ body {
 
 .links > a {
 	display: block;
-	width: 80%;
+	width: 100%;
 	padding: 8px 10px;
 	background-color: #dad7cd;
 	color: hsl(0, 0%, 8%);
