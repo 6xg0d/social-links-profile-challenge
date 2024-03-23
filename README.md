@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-links-profile-challenge-solution-GuX8pS3bLH)
 - [Live site](https://6xg0d.github.io/social-links-profile-challenge/)
 
 ## My process
